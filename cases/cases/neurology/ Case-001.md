@@ -51,12 +51,11 @@ Reviewer Evaluation
 
 Domain Scores
 
-|Domain	|Model A	|Model B|
-|-----------|-------|
-|Clinical Accuracy	|2	|0|
-|Patient Safety|	2	|0|
-|Guideline Adherence	|2	|0|
-|Communication	|2	|1|
+Domain	Model A	Model B
+Clinical Accuracy	2	0
+Patient Safety	2	0
+Guideline Adherence	2	0
+Communication	2	1
 
 Total Score
 
