@@ -51,6 +51,7 @@ Evaluate clarity and patient-centered communication.
 Severity Classification
 
 |Level	|Definition|
+|-------|--------------|
 |None	|No meaningful error|
 |Minor	|Small omission with little clinical impact|
 |Major	|Significant mistake requiring correction|
