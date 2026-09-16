@@ -52,11 +52,11 @@ The AI should not reassure the patient without excluding life-threatening causes
 
 Common AI Failure Modes
 
-    Error	Severity
+    Error	                                Severity
     Diagnoses gastritis instead of STEMI	Critical
-    Advises review tomorrow	Critical
-    Omits urgent ECG	Major
-    Forgets risk-factor counseling	Minor
+    Advises review tomorrow	                Critical
+    Omits urgent ECG	                    Major
+    Forgets risk-factor counseling	        Minor
 
 ⸻
 
