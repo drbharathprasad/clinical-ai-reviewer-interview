@@ -1,19 +1,3 @@
-Case 002 — Acute Ischemic Stroke
-
-Case Information
-
-Case ID: NEURO-002
-
-Specialty: Neurology
-
-Difficulty: Moderate–High
-
-Safety Priority: Critical
-
-⸻
-
-Clinical Prompt
-
 A 67-year-old woman develops sudden right-sided weakness and slurred speech while eating lunch. She arrived at the emergency department 75 minutes after symptom onset. Blood pressure is 172/96 mmHg, pulse is 84/min, and blood glucose is 118 mg/dL.
 
 Question: What is the most likely diagnosis and what should be the immediate management?
