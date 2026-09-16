@@ -39,18 +39,6 @@ Projects include:
 
 ⸻
 
-Repository Progress
-
-Section	Status
-Review Rubrics	Complete
-Guideline References	Complete
-Clinical Cases	In Progress
-Calibration Rounds	Ready
-Mock Interviews	Ready
-Python Analytics	Ready
-
-⸻
-
 Skills Demonstrated
 
 * Clinical reasoning
