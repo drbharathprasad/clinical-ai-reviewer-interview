@@ -60,10 +60,10 @@ Before approving any AI response, verify:
 
 Severity Matrix
 
-Hallucination Type	Typical Severity
-Fabricated facts	Major
-Unsupported recommendation	Minor–Major
-Diagnostic hallucination	Critical
+    Hallucination Type	Typical Severity
+    Fabricated facts	Major
+    Unsupported recommendation	Minor–Major
+    Diagnostic hallucination	Critical
 Fake guideline citation	Major
 
 Reviewer Note
