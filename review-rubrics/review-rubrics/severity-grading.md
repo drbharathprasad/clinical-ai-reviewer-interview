@@ -1,4 +1,4 @@
-Severity Grading Framework
+oSeverity Grading Framework
 
 Purpose
 
@@ -76,12 +76,13 @@ If Yes to Question 4 → Critical Error
 
 Examples
 
-Scenario	Severity
-Gastritis instead of STEMI	Critical
-Delayed thrombolysis advice	Critical
-Wrong antihypertensive choice	Major
-Forgot smoking cessation advice	Minor
-Complete evidence-based answer	No Error
+|Scenario                       |Severity|
+|-------------------------------|--------|
+|Gastritis instead of STEMI     |Critical|
+|Delayed thrombolysis advice    |Critical|
+|Wrong antihypertensive choice  |Major   |
+|Forgot smoking cessation advice|Minor   |
+|Complete evidence-based answer |No Error|
 
 ⸻
 
