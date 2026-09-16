@@ -1,4 +1,4 @@
-# Clinical AI Reviewer Interview Bootcamp
+# Clinical AI Reviewer Interview 
 
 An MBBS portfolio project focused on evaluating medical AI models for
 clinical accuracy, patient safety, hallucinations, and guideline adherence.
