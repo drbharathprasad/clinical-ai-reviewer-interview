@@ -11,8 +11,10 @@ clinical accuracy, patient safety, hallucinations, and guideline adherence.
 - Medical reasoning
 
 ## Project Structure
-- cases/
 - review-rubrics/
 - guidelines/
+- cases/
+- calibration rounds/
 - mock-interviews/
-- portfolio/.
+- Phython analysis/
+- portfolio/
