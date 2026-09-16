@@ -55,7 +55,7 @@ Common AI Failure Modes
     Error	                                Severity
     Diagnoses gastritis instead of STEMI	Critical
     Advises review tomorrow	                Critical
-    Omits urgent ECG	                    Major
+    Omits urgent ECG	                  Major
     Forgets risk-factor counseling	        Minor
 
 ⸻
